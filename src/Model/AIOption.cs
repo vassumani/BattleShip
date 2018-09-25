@@ -1,23 +1,3 @@
-<<<<<<< HEAD
-﻿
-public enum AIOption
-{
-    /// <summary>
-    ///     ''' Easy, total random shooting
-    ///     ''' </summary>
-    Easy,
-
-    /// <summary>
-    ///     ''' Medium, marks squares around hits
-    ///     ''' </summary>
-    Medium,
-
-    /// <summary>
-    ///     ''' As medium, but removes shots once it misses
-    ///     ''' </summary>
-    Hard
-}
-=======
 
 using Microsoft.VisualBasic;
 using System;
@@ -52,4 +32,3 @@ public enum AIOption
 //Twitter: @telerik
 //Facebook: facebook.com/telerik
 //=======================================================
->>>>>>> zorangligorevic

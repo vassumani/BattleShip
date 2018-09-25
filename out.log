@@ -1,4 +1,4 @@
-Microsoft (R) Visual C# Compiler version 4.6.1586.0
+Microsoft (R) Visual C# Compiler version 4.7.3056.0
 for C# 5
 Copyright (C) Microsoft Corporation. All rights reserved.
 
@@ -6,3 +6,4 @@ This compiler is provided as part of the Microsoft (R) .NET Framework, but only 
 
 src\Model\AIPlayer.cs(20,18): warning CS0660: 'AIPlayer.Location' defines operator == or operator != but does not override Object.Equals(object o)
 src\Model\AIPlayer.cs(20,18): warning CS0661: 'AIPlayer.Location' defines operator == or operator != but does not override Object.GetHashCode()
+src\DiscoveryController.cs(106,19): warning CS0219: The variable 'TIMER' is assigned but its value is never used

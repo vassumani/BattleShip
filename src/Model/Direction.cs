@@ -1,17 +1,3 @@
-<<<<<<< HEAD
-public enum Direction
-{
-    /// <summary>
-    ///     ''' The ship is oriented left/right
-    ///     ''' </summary>
-    LeftRight,
-
-    /// <summary>
-    ///     ''' The ship is oriented up/down
-    ///     ''' </summary>
-    UpDown
-}
-=======
 
 using Microsoft.VisualBasic;
 using System;
@@ -41,4 +27,3 @@ public enum Direction
 //Twitter: @telerik
 //Facebook: facebook.com/telerik
 //=======================================================
->>>>>>> zorangligorevic
